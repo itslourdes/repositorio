@@ -1,2 +1,2 @@
 # repositorio
-repositorio para pruebas
+repositorio para pruebas de git
